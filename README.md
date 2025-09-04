@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Серафим</h1>
 <p align="center">
-  Project Manager • .NET & React • Игры/AI • DIE fan
+  Project Manager • .NET & React • Игры/AI
 </p>
 
 <p align="center">
@@ -46,3 +46,9 @@
 - Почта: `mail@serafimpogodin.ru`  
 
 ---
+
+<p align="center">
+ 💀 dependency injection everywhere fan 💀
+  <br><br>
+<img width="639" height="479" alt="image" src="https://github.com/user-attachments/assets/1c9cec4c-ce42-4c98-91ed-0c92c43009eb" />
+</p>
