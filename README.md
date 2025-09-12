@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Серафим</h1>
 <p align="center">
-  Project Manager • .NET & React • Игры/AI
+  Full-stack project manager • .NET & React • Игры/AI
 </p>
 
 <p align="center">
