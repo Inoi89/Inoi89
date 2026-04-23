@@ -16,10 +16,9 @@
   Бэкенд на .NET + фронт + TGapp на React, ролевая система персонажей, пайплайн промптов/озвучки/картинок (GPT/LLaMA/Qwen, Stable Diffusion, ElevenLabs, Telegram Stars/CryptoPay).
   .NET, TS, EF Core, MSSQL, Mongo, Redis, React, Vite, tysringe
   
-- **<a href="https://t.me/rp7hills">7HillsRP</a>** — будущий клёвый классный GTA V RP-сервер на **RAGE:MP** с уникальной картой Санкт-Петербурга и Дубая.  
-  Вся карта, модельки, скины — полностью свои. Кодовый стек временами прыгает, начинался с одного - закончился другим, но в целом - Rage, .NET, JS.  
-  Работаю вместе с классной командой — отвечаю за архитектуру, рефакторинг, код-ревью, внутренние инструменты и всё, что горит 🔥 (А горит постоянно всё)
-  Канбан-доски, тысячи коммитов, куча фиксов и постоянный движ.
+- **<a href="https://etovpn.com/">etoVPN</a>** —  — VPN-сервис со своим клиентом, кабинетом и внутренней платформой управления.
+  Не только “кнопка подключиться”, а весь зоопарк целиком: desktop-клиент, control plane, node agent, управление доступами и устройствами, auth, billing, корпоративный доступ, realtime-статусы.
+  Стек местами суровый, местами весёлый: .NET 8, ASP.NET Core, React/TS, Avalonia, PostgreSQL, SignalR, Hangfire, Docker, Nginx, WireGuard/AmneziaWG, mTLS/JWT. Android - iOS аппки прилагаются.
 
 - Много лет работаю в медицине - как ряд самых разных доработок-разработок так и полный спектр поддержки.
   От просто работы с МИС - до настройки-поддержки инфраструктуры. Самые разные интеграции, эцп, сфр, мчд и прочие загадочные слова.
@@ -31,7 +30,7 @@
 
 - **Бэкенд**: C# (.NET 8), ASP.NET Core, EF Core  
 - **Базы данных**: SQL Server, MySQL/MariaDB, MongoDB, Redis  
-- **Фронтенд**: React, TypeScript, Vite, SWR, Tailwind/CSS  
+- **Фронтенд**: React, TypeScript, Vite, SWR, Tailwind/CSS, Avalonia UI
 - **Инфра**: Docker, Nginx
 
 ---
