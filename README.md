@@ -16,7 +16,7 @@
   Бэкенд на .NET + фронт + TGapp на React, ролевая система персонажей, пайплайн промптов/озвучки/картинок (GPT/LLaMA/Qwen, Stable Diffusion, ElevenLabs, Telegram Stars/CryptoPay).
   .NET, TS, EF Core, MSSQL, Mongo, Redis, React, Vite, tysringe
   
-- **<a href="https://etovpn.com/">etoVPN</a>** —  — VPN-сервис со своим клиентом, кабинетом и внутренней платформой управления.
+- **<a href="https://etovpn.com/">etoVPN</a>** — VPN-сервис со своим клиентом, кабинетом и внутренней платформой управления.
   Не только “кнопка подключиться”, а весь зоопарк целиком: desktop-клиент, control plane, node agent, управление доступами и устройствами, auth, billing, корпоративный доступ, realtime-статусы.
   Стек местами суровый, местами весёлый: .NET 8, ASP.NET Core, React/TS, Avalonia, PostgreSQL, SignalR, Hangfire, Docker, Nginx, WireGuard/AmneziaWG, mTLS/JWT. Android - iOS аппки прилагаются.
 
